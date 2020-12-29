@@ -1,5 +1,5 @@
 # SI 669 Final Project - Your Trip Mate App
-Your Trip Mate is a trip assistant mobile application developed with React Native, Expo, and Google Firebase.
+Your Trip Mate is a trip assistant mobile application developed with React Native, Expo, and Google Firebase.<br>
 (This app was developed for the final project of SI 669 Mobile App Development class at the University of Michigan.)
 
 ## Target Audience
